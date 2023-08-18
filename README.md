@@ -43,4 +43,7 @@ Configure Visual Studio Code: Open Visual Studio Code and ensure you have the Ju
 
 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_#345tttttdssggsssdsfsdfdfd
 
+use below link for opening
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.4:8501
 
